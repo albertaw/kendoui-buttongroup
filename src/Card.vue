@@ -29,9 +29,7 @@ export default {
 	width: 286px;
 	padding: 1em;
 	margin-top: 1em;
-}
-
-h2 {
 	text-align: center;
 }
+
 </style>
