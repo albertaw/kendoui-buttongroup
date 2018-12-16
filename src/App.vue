@@ -9,8 +9,13 @@
 </template>
 
 <script>
+import Card from './Card.vue'
+
 export default {
   name: 'app',
+  components: {
+    Card
+  },
   data () {
     return {
     }
